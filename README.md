@@ -71,25 +71,15 @@ El análisis permitió:
 * Construir dashboards interactivos para facilitar la visualización de indicadores.
 * Actualizar periódicamente la información para mantener el análisis vigente.
 
----
-
-# 📈 Visualizaciones
-
-El proyecto incluye diferentes gráficos e indicadores que permiten comprender el comportamiento de los datos mediante representaciones visuales.
 
 ---
 
-# 🚀 Cómo ejecutar el proyecto
+## ▶ Ejecutar el proyecto
 
-```bash
-git clone https://github.com/sergioingmeca-cyber/Project_ladb_mobility_economy.git
+Puedes explorar y ejecutar este proyecto directamente en Google Colab, sin necesidad de instalar dependencias en tu equipo.
 
-cd Project_ladb_mobility_economy
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergioingmeca-cyber/Project_ladb_mobility_economy/blob/main/Project_ladb_mobility_economy.ipynb)
 
-pip install -r requirements.txt
-
-jupyter notebook
-```
 
 ---
 
